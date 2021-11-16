@@ -1,3 +1,3 @@
 # Deep-Learning
 
-Machine Learning projects with Pytorch and Tensorflow
+DL with ANNs projects using Pytorch and Tensorflow
